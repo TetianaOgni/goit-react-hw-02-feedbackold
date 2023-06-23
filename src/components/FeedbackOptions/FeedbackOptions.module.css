@@ -1,0 +1,12 @@
+.feedbackOptions {
+  position: relative;
+  display: flex;
+  gap: 30px;
+  justify-content: space-around;
+}
+.feedbackOptionsButton {
+  margin: 0;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+}

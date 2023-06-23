@@ -1,0 +1,16 @@
+.statisticsList {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+.statisticsItem {
+  font-size: 15px;
+  font-weight: bold;
+}
+.statisticsResultsItem {
+  font-size: 15px;
+}
+.statisticsResultsList {
+  display: flex;
+  flex-direction: column;
+}
